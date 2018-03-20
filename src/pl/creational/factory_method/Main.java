@@ -1,4 +1,4 @@
-package pl.factory_method;
+package pl.creational.factory_method;
 
 /**
  * Factory method definiuje interfejs (lub klasę abstrakcyjną) dla produktu i fabryki,

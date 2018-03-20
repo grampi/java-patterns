@@ -1,4 +1,4 @@
-package pl.strategy;
+package pl.behavioral.strategy;
 
 public class Test {
 

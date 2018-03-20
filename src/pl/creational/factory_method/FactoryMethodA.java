@@ -1,4 +1,4 @@
-package pl.factory_method;
+package pl.creational.factory_method;
 
 public class FactoryMethodA implements Factory {
 
