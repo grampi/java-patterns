@@ -5,8 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //Encapsulates complexity of flyweight creation
-public class TreeFactory {
-
+public class TreeTypeFactory {
     static Map<String, TreeType> treeTypes = new HashMap<>();
 
     public static TreeType getTreeType(String name, Color color, String otherTreeData) {
